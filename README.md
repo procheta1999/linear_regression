@@ -1,2 +1,2 @@
 # linear_regression
-linear regression problem solving using best fir line
+linear regression problem solving using best fit line
